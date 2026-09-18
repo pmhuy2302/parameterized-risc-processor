@@ -138,7 +138,7 @@ risc-cpu-16-bit/
 │   ├── test4.txt
 │   └── test5.txt
 ├── Figure/
-│   └── hierarchy.png
+│   └── hierarchy.svg
 ├── Waveform/
 │   ├── Test1_waveform.png
 │   ├── Test2_waveform.png
