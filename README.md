@@ -1,4 +1,4 @@
-# RISC CPU 16-BIT
+# PARAMETERIZED RISC PROCESSOR
 
 ![Verilog](https://img.shields.io/badge/Language-Verilog_HDL-blue.svg)
 ![Tools](https://img.shields.io/badge/Tools-Xilinx_Vivado-orange.svg)
