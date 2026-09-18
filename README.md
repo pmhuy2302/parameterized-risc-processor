@@ -15,7 +15,7 @@
 ### 2.1. Hierarchy Design
 The hierarchy design is divided into 7 modules:
 
-![cpu hierarchy](Figure/hierarchy.png)
+![cpu hierarchy](Figure/hierarchy.svg)
 
 ### 2.2. Signal Specifications
 
