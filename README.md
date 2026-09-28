@@ -242,8 +242,8 @@ This project includes unit testbenches for individual RTL modules and a top-leve
 Open your terminal or command prompt and clone the repository:
 
 ```bash
-git clone [https://github.com/pmhuy2302/risc-cpu-16-bit.git](https://github.com/pmhuy2302/risc-cpu-16-bit.git)
-cd risc-cpu-16-bit
+git clone https://github.com/pmhuy2302/parameterized-risc-processor.git
+cd parameterized-risc-processor
 ```
 
 ---
